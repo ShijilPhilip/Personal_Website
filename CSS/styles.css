@@ -1,0 +1,306 @@
+
+body
+    {
+      text-align: center;
+      margin: 0;
+      font-size: 20px;
+      font-family: 'Noto Sans', sans-serif;
+      background-color: white; /*#EAF6F6;*/
+    }
+
+
+h1
+    {
+      margin-top: 20px;
+      font-size: 8.43rem;
+      font-family: 'Sacramento', cursive;
+      color: #66BFBF;
+      margin-bottom: 20px;
+      line-height: 2;
+    }
+
+h2
+    {
+      margin: 0;
+      font-size: 30px;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: bold;
+      color: #66BFBF;
+    }
+
+h3
+    {
+      font-weight: bold;
+      color: #11999E;
+    }
+
+hr
+    {
+      border-style: dotted none none;
+      border-width: 9px;
+      margin: auto;
+      width: 4.375%;
+      color: #EAF6F6;
+    }
+
+
+.h2
+    {
+      font-size: 2.5rem;
+    }
+
+
+.top-container
+    {
+      background-color: #E4F9F5;
+      position: relative;
+      padding-top: 100px;
+    }
+
+        .top-cloud
+            {
+                position: absolute;
+                top: 40px;
+                right: 400px;
+            }
+
+        .bottom-cloud
+            {
+                position: absolute;
+                left: 400px;
+                bottom: 300px;
+            }
+        .mountain
+            {
+                max-width: 100%;
+                height: auto;
+            }
+        .profile_writing
+            {
+                margin-top: 50px;
+                margin-bottom: 40px;
+
+            }
+
+
+
+.profile_section
+    {
+      text-align: center;
+      position: relative;
+      width:auto;
+      height:310px;
+      padding: 40px 0 20px 0;
+    }
+
+.monitor-profile_pic-smartphone
+    {
+        margin: auto;
+
+    }
+
+
+        .monitor-gif
+            {
+        /*      position: relative;
+              right: 130px;*/
+              width: 15.1875rem;
+              border-radius: 50%;
+              margin: auto 40px auto auto;
+            }
+
+        .profile-pic
+            {
+          /*    position: relative;*/
+              width: 17.0625rem;
+              border-radius: 50%;
+              margin: auto 90px auto;
+
+            }
+
+
+        .smartphone-gif
+            {
+            /*  position: relative;
+              left: 130px;*/
+              width: 15.1875rem;
+              border-radius: 50%;
+              margin: auto auto auto 40px;
+            }
+
+.skills
+    {
+      margin-top: 30px;
+      margin-bottom: 10px;
+
+    }
+
+
+.html_skill_writing
+    {
+      margin: 40px auto 100px;
+      width: 80%;
+      text-align: center;
+    }
+
+        .html-img
+            {
+              width: 11.8125rem;
+              float: left;
+            }
+
+        .html-gif
+            {
+              width: 11.8125rem;
+              border-radius: 100%;
+              float: right;
+              margin: auto auto auto 30px;
+            }
+
+.css_skill_writing
+    {
+      margin: 100px auto 100px;
+      width: 80%;
+      text-align: center;
+    }
+
+        .css-gif
+            {
+              border-radius: 50%;
+              width: 11.8125rem;
+              float: left;
+            }
+
+        .css-img
+            {
+              width: 11.8125rem;
+              float: right;
+            }
+
+
+
+.contact-me
+    {
+      margin-top: 3.125rem;
+      margin-bottom: 2.187rem;
+    }
+
+.bottom-container
+    {
+      padding-top: 10px;
+      /*margin-bottom: 20px;*/
+      background-color: #66BFBF;
+
+    }
+
+
+        .twitter
+            {
+              position: relative;
+              width: 3.276875rem;
+              bottom: 30px;
+              left: 60px;
+            }
+
+        .linkedin
+            {
+              position: relative;
+              width: 3.276875rem;
+              bottom: 30px;
+              left: 70px;
+            }
+
+        .insta
+            {
+              position: relative;
+              width: 3.276875rem;
+              bottom: 30px;
+              left: 80px;
+            }
+
+        .email
+            {
+              position: relative;
+              bottom: 30px;
+              left: 60px;
+            }
+
+        .footer-link
+            {
+              margin: auto;
+              color: #11999E;
+              font-weight: bold;
+              text-decoration: none;
+            }
+          .footer-link:hover
+          {
+            color: #EAF6F6;
+          }
+
+.SP
+    {
+      margin-top: 50px;
+      font-size: 0.75rem;
+      font-weight: bold;
+      color: #EAF6F6;
+    }
+
+
+
+
+
+.underline
+    {
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+    }
+
+
+
+
+
+
+    .btn {
+      background: #11cdd4;
+      background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+      background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+      background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+      background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+      background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      font-family: 'Source Sans Pro', sans-serif;
+      color: #ffffff;
+      font-size: 27px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+    }
+
+    .btn:hover {
+      background: #30e3cb;
+      background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+      background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+      background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+      background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+      background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+      text-decoration: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Background Color for top container.......  #68B984   */
